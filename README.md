@@ -1,5 +1,5 @@
 # Form Digital Manual
-### SCSS to CSS : [Compile](#compile) + Paths Tutorial
+### SCSS to CSS : [Compile](#compile) + [Paths Tutorial](#paths)
 
 #### Compile
 1. [Install Docker (Mac) ](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
