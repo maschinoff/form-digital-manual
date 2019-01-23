@@ -1,7 +1,7 @@
 # Form Digital Manual
 ##### SCSS to CSS : Compile + Paths Tutorial
 
-####Docker
+#### Docker
 1. [Install Docker (Mac) ](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 2. Open the command line
 3. Clone repository to you local folder
@@ -22,7 +22,7 @@ docker-compose up
 
 7. Open http://127.0.0.1:3000/ in you browser to see the site.
 
-####Paths
+#### Paths
 1. Copy compiled css to base.css in theme folder
 2. With your prefered IDE find and replace the next strings:
 /assets/img/ => ./../img/ 
