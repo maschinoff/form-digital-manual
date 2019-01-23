@@ -23,7 +23,7 @@ docker-compose up
 7. Your finished site will be viewable at this [URL](http://127.0.0.1:3000/)
 
 #### Paths
-1. Copy compiled css to base.css in theme folder
+1. Copy compiled __app.css__ to __base.css__ in theme folder
 2. With your prefered IDE find and replace the next strings:
 __/assets/img/__ => __./../img/__ 
 
