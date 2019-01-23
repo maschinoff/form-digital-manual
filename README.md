@@ -18,12 +18,12 @@ cd viewport3
 ```
 docker-compose up
 ``` 
-6. You will find compiled CSS in /dist/assets/css/app.css
+6. You will find compiled CSS in __/dist/assets/css/app.css__
 
 7. Your finished site will be viewable at this [URL](http://127.0.0.1:3000/)
 
 #### Paths
 1. Copy compiled css to base.css in theme folder
 2. With your prefered IDE find and replace the next strings:
-/assets/img/ => ./../img/ 
+__/assets/img/__ => __./../img/__ 
 
