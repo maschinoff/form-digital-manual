@@ -20,7 +20,7 @@ docker-compose up
 ``` 
 6. You will find compiled CSS in /dist/assets/css/app.css
 
-7. Open http://127.0.0.1:3000/ in you browser to see the site.
+7. Your finished site will be viewable at this [URL](http://127.0.0.1:3000/)
 
 #### Paths
 1. Copy compiled css to base.css in theme folder

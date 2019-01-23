@@ -3,5 +3,5 @@ WORKDIR /app
 COPY package.json /app
 RUN npm install
 COPY . /app
-CMD yarn serve
-EXPOSE 3000
+CMD yarn start
+EXPOSE 8000
