@@ -1,7 +1,7 @@
 # Form Digital Manual
-### SCSS to CSS : Compile + Paths Tutorial
+### SCSS to CSS : [Compile](#compile) + Paths Tutorial
 
-#### Docker
+#### Compile
 1. [Install Docker (Mac) ](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 2. Open the command line
 3. Clone repository to you local folder
